@@ -1,4 +1,4 @@
-FROM node:8.7-alpine
+FROM node:8.9-alpine
 RUN apk add --no-cache make git zip
 RUN npm install jspm -g
 RUN npm install gulp-cli -g
