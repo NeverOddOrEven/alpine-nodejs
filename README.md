@@ -1,3 +1,11 @@
 # Alpine NodeJS Docker Image
 
-Adds gulp and jspm 
+## Contents
+- make 
+- git 
+- zip 
+- bash
+- jspm
+- gulp-cli
+- gulp
+- bower
